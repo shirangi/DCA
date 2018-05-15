@@ -1,6 +1,6 @@
 # Author: Trent Bone
 # Date: 2/14/2018
-from __future__ import
+from __future__ import division
 import numpy as np
 import matplotlib
 matplotlib.use("TkAgg")
